@@ -1,0 +1,96 @@
+{
+    "list": [ 
+      {
+        "name": "华为p30",
+        "price": 3465,
+        "count": 1
+      },
+      {
+        "name": "纽曼",
+        "price": 3465,
+        "count": 1
+      }
+    ],
+    "list1": [ 
+      {
+        "name": "一型",
+        "price": 3465,
+        "count": 1
+      },
+      {
+        "name": "二型",
+        "price": 3465,
+        "count": 1
+      }
+    ],
+    "list2": [ 
+      {
+        "name": "大锅",
+        "price": 3465,
+        "count": 1
+      },
+      {
+        "name": "小锅",
+        "price": 3465,
+        "count": 1
+      }
+    ],
+    "list3": [ 
+      {
+        "name": "小号",
+        "price": 3465,
+        "count": 1
+      },
+      {
+        "name": "大号",
+        "price": 3465,
+        "count": 1
+      }
+    ],
+    "list4": [ 
+      {
+        "name": "垫子",
+        "price": 3465,
+        "count": 1
+      },
+      {
+        "name": "椅子",
+        "price": 3465,
+        "count": 1
+      },
+      {
+        "name": "柜子",
+        "price": 3465,
+        "count": 1
+      },
+      {
+        "name": "沙发",
+        "price": 3465,
+        "count": 1
+      }
+    ],
+    "list5": [ 
+      {
+        "name": "地板",
+        "price": 3465,
+        "count": 1
+      },
+      {
+        "name": "木板",
+        "price": 3465,
+        "count": 1
+      }
+    ],
+    "list6": [ 
+      {
+        "name": "华为p30",
+        "price": 3465,
+        "count": 1
+      },
+      {
+        "name": "纽曼",
+        "price": 3465,
+        "count": 1
+      }
+    ]
+}

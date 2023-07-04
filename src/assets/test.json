@@ -1,0 +1,42 @@
+{
+    "list": [ 
+      {
+        "url": "11.png",
+        "name": "华为p30",
+        "price": 3465,
+        "count": 1
+      },
+      {
+        "url":"require('./src/assets/img/12.png')",
+        "name": "华为mate30",
+        "price": 3465,
+        "count": 1
+      },
+      {
+          "name": "华为mate40",
+          "price": 4166,
+          "count": 1
+      },
+      {
+        "name": "苹果12",
+        "price": 7500,
+        "count": 1
+      },
+      {
+        "name": "苹果13pro",
+        "price": 9500,
+        "count": 1
+      },
+      {
+        "name": "OPPO",
+        "price": 2180,
+        "count": 1
+      },
+      
+      {
+        "name": "Vivo",
+        "price": 2110,
+        "count": 1
+      }
+    ]
+}
